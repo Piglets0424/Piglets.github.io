@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{ font-size:18px}
+p.left{ font-size:65px; text-align:left}
+#blue{ color: #03C}
+h2{text-decoration:blink}
+p.serif{font-weight:400}
